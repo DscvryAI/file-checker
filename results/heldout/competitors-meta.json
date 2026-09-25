@@ -1,0 +1,15 @@
+{
+ "libmagic": {
+  "version": "file-5.45",
+  "files": 2519,
+  "batch_s": 38.102,
+  "per_file_ms": 15.126
+ },
+ "magika": {
+  "version": "1.0.3",
+  "model_load_s": 0.084,
+  "files": 2519,
+  "batch_s": 23.816,
+  "per_file_ms": 9.455
+ }
+}

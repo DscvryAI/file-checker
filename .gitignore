@@ -1,0 +1,6 @@
+target/
+.venv/
+data/govdocs/
+data/constructed/
+data/heldout/
+node_modules/
