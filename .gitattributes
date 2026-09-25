@@ -1,0 +1,6 @@
+*.pdf binary
+*.wasm binary
+*.docx binary
+*.xlsx binary
+*.jpg binary
+*.png binary

@@ -1,0 +1,5864 @@
+{
+ "001000.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001001.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001002.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001003.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001004.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001005.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001006.ps": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001007.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001008.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001009.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001010.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001011.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001012.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001013.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "001014.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001015.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001016.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001017.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001018.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001019.log": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "log"
+ },
+ "001020.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001021.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "001022.log": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "log"
+ },
+ "001023.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001024.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001025.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001026.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001027.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001028.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001029.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001030.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001031.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001032.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001033.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001034.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001035.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001036.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001037.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001038.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001039.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001040.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001041.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001042.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001043.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001044.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001045.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001046.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001047.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001048.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001049.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001050.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001051.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "001052.pps": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pps"
+ },
+ "001053.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001054.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "001055.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001056.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001057.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001058.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001059.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001060.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001061.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001062.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001063.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001064.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001065.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001066.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001067.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001068.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001069.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001070.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001071.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001072.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001073.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001074.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001075.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001076.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001078.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001079.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001080.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001081.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001082.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001083.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001084.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001086.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001088.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001089.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001090.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001091.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001092.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001093.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001094.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001095.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001096.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001097.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001098.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001099.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001100.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001101.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001102.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001103.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001104.dbase3": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "dbase3"
+ },
+ "001105.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001106.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001107.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001108.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001109.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001110.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001111.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001112.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001113.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001114.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001115.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001116.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001117.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001118.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001119.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001120.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001121.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001122.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001123.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001124.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001125.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001126.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001127.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001128.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001129.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001130.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001131.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001132.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001133.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001134.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001135.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001136.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001137.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001138.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001139.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001140.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001141.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "001142.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001143.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001144.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "001145.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001146.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001147.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001148.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001149.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001150.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001151.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001152.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001153.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001154.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001155.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001156.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001157.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001158.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001159.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001160.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001161.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001162.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001163.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001164.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001165.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001166.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001167.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001168.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001169.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "001170.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001171.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001172.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001173.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001175.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001176.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001177.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001178.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001179.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001180.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001181.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001182.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001183.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001184.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001185.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001186.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001187.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001188.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001189.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001190.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "001191.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001192.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001193.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001194.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001195.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001196.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001197.html": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "html"
+ },
+ "001198.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001199.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001200.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001201.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001202.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001203.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001204.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001205.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001206.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001207.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001208.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001209.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001210.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001211.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001212.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001213.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001214.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001215.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001216.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001217.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001218.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001219.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001220.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001221.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001222.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001223.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001224.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001225.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001226.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001227.gif": {
+  "label": "gif",
+  "via": "pillow:GIF",
+  "flags": [],
+  "ext": "gif"
+ },
+ "001228.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001229.png": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "png"
+ },
+ "001230.png": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "png"
+ },
+ "001231.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001232.gif": {
+  "label": "gif",
+  "via": "pillow:GIF",
+  "flags": [],
+  "ext": "gif"
+ },
+ "001233.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001234.log": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "log"
+ },
+ "001235.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001236.gif": {
+  "label": "gif",
+  "via": "pillow:GIF",
+  "flags": [],
+  "ext": "gif"
+ },
+ "001237.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001239.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001240.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001241.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001242.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001243.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001244.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001245.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001246.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001247.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001248.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001249.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001250.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001251.gif": {
+  "label": "gif",
+  "via": "pillow:GIF",
+  "flags": [],
+  "ext": "gif"
+ },
+ "001252.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001253.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001254.unk": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "unk"
+ },
+ "001255.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001256.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001257.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001258.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001259.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001260.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001261.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001262.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "001265.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001266.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001267.dbase3": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "dbase3"
+ },
+ "001268.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001269.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001270.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001271.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001272.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001273.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [
+   "repaired"
+  ],
+  "ext": "pdf"
+ },
+ "001274.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001275.dbase3": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "dbase3"
+ },
+ "001276.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001278.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001279.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001280.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001281.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001282.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001283.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001284.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [
+   "repaired"
+  ],
+  "ext": "pdf"
+ },
+ "001285.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001286.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001287.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001288.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001290.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001291.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001292.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001293.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001294.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [
+   "repaired"
+  ],
+  "ext": "pdf"
+ },
+ "001295.ps": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001296.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001297.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001298.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001299.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001300.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001301.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001302.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001303.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001304.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001305.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001306.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001307.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001308.ps": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001309.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001310.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001311.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001312.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001313.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001314.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001315.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001316.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001317.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001318.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001319.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001320.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001321.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "001322.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001323.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001324.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001325.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001326.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001327.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001328.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001329.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001330.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001331.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001333.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001334.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001335.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001336.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001337.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001338.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001339.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001340.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001341.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001342.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001343.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001344.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001345.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001346.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001347.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001348.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001349.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001350.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001351.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001352.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001353.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001354.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001355.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001356.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001357.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001358.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001359.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001360.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001361.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001362.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001363.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001364.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001365.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001366.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001367.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001368.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001369.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001370.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001371.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001372.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001373.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001374.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001375.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001376.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001377.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001378.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001379.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001380.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001381.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001382.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001383.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001384.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001385.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001386.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001387.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001388.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001389.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001390.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001391.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001392.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001393.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001394.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001395.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001396.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001397.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001398.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001399.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001400.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001401.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001402.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001403.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001404.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001405.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001406.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001407.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001408.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001409.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001410.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001411.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001412.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001413.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001414.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001415.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001416.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001417.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001418.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001419.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001420.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001421.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001422.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001423.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001424.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001425.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001426.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001427.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001428.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001429.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001430.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001431.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001432.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001433.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001434.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001435.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001436.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001437.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001438.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001439.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001440.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001441.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001442.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001443.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001444.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001445.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001446.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001447.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001448.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001449.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001450.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001451.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001452.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001453.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001454.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001455.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001456.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001457.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001458.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001459.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001460.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001461.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001462.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001463.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001464.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001465.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001466.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001467.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001468.rtf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "rtf"
+ },
+ "001469.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001470.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001471.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001472.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001473.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "001474.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001475.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001476.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001477.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001478.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001479.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001480.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001481.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001482.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001483.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001484.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001485.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "001486.log": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "log"
+ },
+ "001487.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001488.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001489.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001490.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001491.log": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "log"
+ },
+ "001492.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001493.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001494.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001495.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001496.log": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "log"
+ },
+ "001497.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001498.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001499.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001500.log": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "log"
+ },
+ "001501.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001502.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001503.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001504.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001505.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001506.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001507.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001508.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001509.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001510.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001511.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001512.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001513.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001514.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001515.log": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "log"
+ },
+ "001517.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001518.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001519.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "001520.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001521.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001522.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001523.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001524.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001525.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001526.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001527.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001528.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001529.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001530.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001531.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001532.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001533.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001534.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001535.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001536.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001537.log": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "log"
+ },
+ "001538.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001539.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001540.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "001541.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001542.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001543.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001544.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001545.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001546.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001547.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001548.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001549.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001550.rtf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "rtf"
+ },
+ "001551.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001552.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001553.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001554.f": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "f"
+ },
+ "001555.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001556.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001557.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001558.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001559.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001560.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001561.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001562.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001563.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001564.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001565.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001567.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001568.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001569.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001570.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001571.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001572.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001575.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001576.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001577.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001578.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001579.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001580.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001581.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001582.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001583.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001584.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001585.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001586.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001587.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001588.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001589.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001590.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001591.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001592.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001593.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001594.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001595.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001596.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001597.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001598.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001599.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001600.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001601.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001602.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001603.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001604.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001605.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001606.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001607.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001608.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001609.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001610.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001611.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001612.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001613.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001614.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001615.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001616.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001617.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001618.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001619.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001620.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001621.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001622.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001623.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001624.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001625.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001626.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001627.unk": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "unk"
+ },
+ "001628.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001629.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001630.ppt": {
+  "label": "other",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001631.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001632.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001633.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001634.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001635.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001636.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001637.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001638.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001639.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001640.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001641.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001642.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001643.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001644.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001645.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001646.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001647.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001648.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001649.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001650.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001651.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001652.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001653.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001654.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001655.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001656.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001657.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001658.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001659.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001660.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001661.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001662.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001663.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001664.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001665.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001666.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001667.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001668.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001669.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001670.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001671.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001672.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001673.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001674.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001675.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001676.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001677.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001678.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001679.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001680.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001681.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001682.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001683.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001684.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001685.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001686.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001687.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001688.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001689.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001690.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001691.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001692.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001693.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001694.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001695.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001696.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001697.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001698.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001699.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001700.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001701.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001702.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001703.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001704.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001705.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001706.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001707.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001708.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "001709.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001710.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001711.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001712.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001713.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001714.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001715.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001716.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001717.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001718.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001720.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001721.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001722.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001723.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001724.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001725.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001726.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001727.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001728.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001729.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001730.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001731.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001732.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001733.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001734.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001735.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001736.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001737.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001738.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001739.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001740.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001741.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001742.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001743.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001744.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001745.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001746.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001747.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001748.unk": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "unk"
+ },
+ "001749.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001750.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001751.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001752.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001753.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001754.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001755.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001756.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001757.unk": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "unk"
+ },
+ "001758.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001759.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001760.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001761.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001762.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001763.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001764.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001765.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001766.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001767.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001768.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001769.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001770.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001771.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001772.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001773.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001774.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001775.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001776.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001777.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001778.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001779.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001780.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001781.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001782.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001783.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001784.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001785.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001786.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001787.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001788.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001789.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001790.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001791.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001792.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001793.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001794.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001795.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001796.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001797.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001798.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001799.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001800.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001801.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001802.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001803.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001804.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001805.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001806.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001807.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001808.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001809.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001810.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001811.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001812.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001813.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001814.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001815.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001816.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001817.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001818.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001819.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001820.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001821.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001822.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001823.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001824.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001825.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001826.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001827.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001828.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001829.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001830.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001831.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001832.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001833.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001834.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001835.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001836.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001837.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001838.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001839.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001840.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001841.gif": {
+  "label": "gif",
+  "via": "pillow:GIF",
+  "flags": [],
+  "ext": "gif"
+ },
+ "001842.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "001843.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001844.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001845.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001846.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001847.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001848.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001849.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001850.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001851.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001852.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001853.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001854.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001855.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001856.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001857.rtf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "rtf"
+ },
+ "001858.rtf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "rtf"
+ },
+ "001859.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001861.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001862.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001863.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001864.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001865.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001866.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001867.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001868.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001869.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001871.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001872.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001873.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001874.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001875.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001876.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001877.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001878.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001879.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001880.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001881.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001882.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001883.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001884.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001885.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001886.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001887.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001888.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001889.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001890.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001891.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001892.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001893.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001894.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001895.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001896.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001897.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001898.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001899.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001900.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001901.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001902.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001903.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001904.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001905.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001906.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "001907.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001908.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001909.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001910.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001911.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001912.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001913.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001914.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001915.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "001916.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "001917.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001918.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001919.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001920.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "001921.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001922.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001923.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001925.ppt": {
+  "label": "ppt",
+  "via": "olefile",
+  "flags": [],
+  "ext": "ppt"
+ },
+ "001926.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001927.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001928.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001929.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001930.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001931.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001932.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001933.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001934.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001935.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "001936.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001938.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001939.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001940.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001941.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001942.ps": {
+  "label": "other",
+  "via": "pillow:EPS",
+  "flags": [],
+  "ext": "ps"
+ },
+ "001943.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001945.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001946.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001947.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001948.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001949.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001950.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001951.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001952.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001953.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001954.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001955.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001956.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001957.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001958.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001959.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001960.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001961.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001962.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001963.rtf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "rtf"
+ },
+ "001964.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001965.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001966.doc": {
+  "label": "doc",
+  "via": "olefile",
+  "flags": [],
+  "ext": "doc"
+ },
+ "001967.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001969.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001970.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001971.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001972.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "001973.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001976.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001977.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001978.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001979.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001980.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001981.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001982.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001984.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001985.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001986.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001987.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001988.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001989.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001990.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001991.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001992.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001993.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001994.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001995.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "001996.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001997.html": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "html"
+ },
+ "001998.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ },
+ "001999.xls": {
+  "label": "xls",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xls"
+ }
+}

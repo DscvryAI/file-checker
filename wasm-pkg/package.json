@@ -1,0 +1,17 @@
+{
+  "name": "file_checker_wasm",
+  "type": "module",
+  "description": "WebAssembly binding for file_checker (the classifier itself has no dependencies).",
+  "version": "0.1.0",
+  "license": "MIT",
+  "files": [
+    "file_checker_wasm_bg.wasm",
+    "file_checker_wasm.js",
+    "file_checker_wasm.d.ts"
+  ],
+  "main": "file_checker_wasm.js",
+  "types": "file_checker_wasm.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}

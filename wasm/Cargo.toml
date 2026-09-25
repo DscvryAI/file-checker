@@ -1,0 +1,19 @@
+[package]
+name = "file_checker_wasm"
+version = "0.1.0"
+edition = "2021"
+description = "WebAssembly binding for file_checker (the classifier itself has no dependencies)."
+license = "MIT"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+file_checker = { path = "../classifier" }
+wasm-bindgen = "0.2"
+
+[profile.release]
+opt-level = "s"
+lto = true
+codegen-units = 1
+panic = "abort"
