@@ -1,0 +1,1624 @@
+{
+ "c0001.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0002.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0003.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0004.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0005.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0006.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0007.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0008.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0009.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0010.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0011.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0012.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0013.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0014.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0015.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0016.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0017.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0018.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0019.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0020.docx": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0021.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0022.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0023.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0024.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0025.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0026.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0027.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0028.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0029.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0030.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0031.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0032.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0033.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0034.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0035.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0036.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0037.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0038.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0039.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0040.xlsx": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0041.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0042.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0043.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0044.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0045.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0046.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0047.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0048.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0049.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0050.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0051.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0052.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0053.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0054.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0055.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0056.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0057.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0058.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0059.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0060.pptx": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0061.docx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0062.docx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0063.docx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0064.docx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0065.docx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0066.docx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0067.docx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0068.docx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0069.docx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0070.docx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0071.xlsx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0072.xlsx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0073.xlsx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0074.xlsx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0075.xlsx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0076.xlsx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0077.xlsx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0078.xlsx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0079.xlsx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0080.xlsx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0081.pptx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0082.pptx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0083.pptx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0084.pptx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0085.pptx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0086.pptx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0087.pptx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0088.pptx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0089.pptx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0090.pptx": {
+  "label": "office-encrypted",
+  "via": "olefile",
+  "flags": [],
+  "ext": "pptx"
+ },
+ "c0091.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0092.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0093.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0094.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0095.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0096.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0097.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0098.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0099.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0100.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0101.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0102.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0103.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0104.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0105.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0106.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0107.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0108.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0109.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0110.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0111.odt": {
+  "label": "odt",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "odt"
+ },
+ "c0112.odt": {
+  "label": "odt",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "odt"
+ },
+ "c0113.odt": {
+  "label": "odt",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "odt"
+ },
+ "c0114.odt": {
+  "label": "odt",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "odt"
+ },
+ "c0115.odt": {
+  "label": "odt",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "odt"
+ },
+ "c0116.ods": {
+  "label": "ods",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "ods"
+ },
+ "c0117.ods": {
+  "label": "ods",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "ods"
+ },
+ "c0118.ods": {
+  "label": "ods",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "ods"
+ },
+ "c0119.ods": {
+  "label": "ods",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "ods"
+ },
+ "c0120.ods": {
+  "label": "ods",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "ods"
+ },
+ "c0121.odp": {
+  "label": "odp",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "odp"
+ },
+ "c0122.odp": {
+  "label": "odp",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "odp"
+ },
+ "c0123.odp": {
+  "label": "odp",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "odp"
+ },
+ "c0124.odp": {
+  "label": "odp",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "odp"
+ },
+ "c0125.odp": {
+  "label": "odp",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "odp"
+ },
+ "c0126.epub": {
+  "label": "epub",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "epub"
+ },
+ "c0127.epub": {
+  "label": "epub",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "epub"
+ },
+ "c0128.epub": {
+  "label": "epub",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "epub"
+ },
+ "c0129.epub": {
+  "label": "epub",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "epub"
+ },
+ "c0130.epub": {
+  "label": "epub",
+  "via": "zipfile-mimetype",
+  "flags": [],
+  "ext": "epub"
+ },
+ "c0131.png": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "png"
+ },
+ "c0132.png": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "png"
+ },
+ "c0133.png": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "png"
+ },
+ "c0134.png": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "png"
+ },
+ "c0135.png": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "png"
+ },
+ "c0136.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "c0137.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "c0138.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "c0139.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "c0140.jpg": {
+  "label": "jpeg",
+  "via": "pillow:JPEG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "c0141.gif": {
+  "label": "gif",
+  "via": "pillow:GIF",
+  "flags": [],
+  "ext": "gif"
+ },
+ "c0142.gif": {
+  "label": "gif",
+  "via": "pillow:GIF",
+  "flags": [],
+  "ext": "gif"
+ },
+ "c0143.gif": {
+  "label": "gif",
+  "via": "pillow:GIF",
+  "flags": [],
+  "ext": "gif"
+ },
+ "c0144.gif": {
+  "label": "gif",
+  "via": "pillow:GIF",
+  "flags": [],
+  "ext": "gif"
+ },
+ "c0145.gif": {
+  "label": "gif",
+  "via": "pillow:GIF",
+  "flags": [],
+  "ext": "gif"
+ },
+ "c0146.tif": {
+  "label": "tiff",
+  "via": "pillow:TIFF",
+  "flags": [],
+  "ext": "tif"
+ },
+ "c0147.tif": {
+  "label": "tiff",
+  "via": "pillow:TIFF",
+  "flags": [],
+  "ext": "tif"
+ },
+ "c0148.tif": {
+  "label": "tiff",
+  "via": "pillow:TIFF",
+  "flags": [],
+  "ext": "tif"
+ },
+ "c0149.tif": {
+  "label": "tiff",
+  "via": "pillow:TIFF",
+  "flags": [],
+  "ext": "tif"
+ },
+ "c0150.tif": {
+  "label": "tiff",
+  "via": "pillow:TIFF",
+  "flags": [],
+  "ext": "tif"
+ },
+ "c0151.bmp": {
+  "label": "bmp",
+  "via": "pillow:BMP",
+  "flags": [],
+  "ext": "bmp"
+ },
+ "c0152.bmp": {
+  "label": "bmp",
+  "via": "pillow:BMP",
+  "flags": [],
+  "ext": "bmp"
+ },
+ "c0153.bmp": {
+  "label": "bmp",
+  "via": "pillow:BMP",
+  "flags": [],
+  "ext": "bmp"
+ },
+ "c0154.bmp": {
+  "label": "bmp",
+  "via": "pillow:BMP",
+  "flags": [],
+  "ext": "bmp"
+ },
+ "c0155.bmp": {
+  "label": "bmp",
+  "via": "pillow:BMP",
+  "flags": [],
+  "ext": "bmp"
+ },
+ "c0156.webp": {
+  "label": "webp",
+  "via": "pillow:WEBP",
+  "flags": [],
+  "ext": "webp"
+ },
+ "c0157.webp": {
+  "label": "webp",
+  "via": "pillow:WEBP",
+  "flags": [],
+  "ext": "webp"
+ },
+ "c0158.webp": {
+  "label": "webp",
+  "via": "pillow:WEBP",
+  "flags": [],
+  "ext": "webp"
+ },
+ "c0159.webp": {
+  "label": "webp",
+  "via": "pillow:WEBP",
+  "flags": [],
+  "ext": "webp"
+ },
+ "c0160.webp": {
+  "label": "webp",
+  "via": "pillow:WEBP",
+  "flags": [],
+  "ext": "webp"
+ },
+ "c0161.zip": {
+  "label": "zip",
+  "via": "zipfile",
+  "flags": [],
+  "ext": "zip"
+ },
+ "c0162.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "c0163.zip": {
+  "label": "zip",
+  "via": "zipfile",
+  "flags": [],
+  "ext": "zip"
+ },
+ "c0164.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "c0165.zip": {
+  "label": "zip",
+  "via": "zipfile",
+  "flags": [],
+  "ext": "zip"
+ },
+ "c0166.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "c0167.zip": {
+  "label": "zip",
+  "via": "zipfile",
+  "flags": [],
+  "ext": "zip"
+ },
+ "c0168.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "c0169.zip": {
+  "label": "zip",
+  "via": "zipfile",
+  "flags": [],
+  "ext": "zip"
+ },
+ "c0170.gz": {
+  "label": "gzip",
+  "via": "gzip",
+  "flags": [],
+  "ext": "gz"
+ },
+ "c0171.json": {
+  "label": "json",
+  "via": "json",
+  "flags": [],
+  "ext": "json"
+ },
+ "c0172.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "c0173.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "c0174.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0175.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "c0176.eml": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "eml"
+ },
+ "c0177.json": {
+  "label": "json",
+  "via": "json",
+  "flags": [],
+  "ext": "json"
+ },
+ "c0178.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "c0179.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "c0180.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0181.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "c0182.eml": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "eml"
+ },
+ "c0183.json": {
+  "label": "json",
+  "via": "json",
+  "flags": [],
+  "ext": "json"
+ },
+ "c0184.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "c0185.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "c0186.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0187.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "c0188.eml": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "eml"
+ },
+ "c0189.json": {
+  "label": "json",
+  "via": "json",
+  "flags": [],
+  "ext": "json"
+ },
+ "c0190.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "c0191.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "c0192.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0193.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "c0194.eml": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "eml"
+ },
+ "c0195.json": {
+  "label": "json",
+  "via": "json",
+  "flags": [],
+  "ext": "json"
+ },
+ "c0196.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "c0197.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "c0198.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0199.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "c0200.eml": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "eml"
+ },
+ "c0201.json": {
+  "label": "json",
+  "via": "json",
+  "flags": [],
+  "ext": "json"
+ },
+ "c0202.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "c0203.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "c0204.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0205.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "c0206.eml": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "eml"
+ },
+ "c0207.json": {
+  "label": "json",
+  "via": "json",
+  "flags": [],
+  "ext": "json"
+ },
+ "c0208.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "c0209.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "c0210.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0211.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "c0212.eml": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "eml"
+ },
+ "c0213.json": {
+  "label": "json",
+  "via": "json",
+  "flags": [],
+  "ext": "json"
+ },
+ "c0214.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "c0215.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "c0216.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0217.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "c0218.eml": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "eml"
+ },
+ "c0219.json": {
+  "label": "json",
+  "via": "json",
+  "flags": [],
+  "ext": "json"
+ },
+ "c0220.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "c0221.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "c0222.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0223.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "c0224.eml": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "eml"
+ },
+ "c0225.json": {
+  "label": "json",
+  "via": "json",
+  "flags": [],
+  "ext": "json"
+ },
+ "c0226.xml": {
+  "label": "xml",
+  "via": "xml-parser",
+  "flags": [],
+  "ext": "xml"
+ },
+ "c0227.html": {
+  "label": "html",
+  "via": "xml-parser:xhtml",
+  "flags": [],
+  "ext": "html"
+ },
+ "c0228.csv": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0229.txt": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "txt"
+ },
+ "c0230.eml": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "eml"
+ },
+ "c0231.rtf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "rtf"
+ },
+ "c0232.rtf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "rtf"
+ },
+ "c0233.rtf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "rtf"
+ },
+ "c0234.rtf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "rtf"
+ },
+ "c0235.rtf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "rtf"
+ },
+ "c0236.pdf": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0237.pdf": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0238.pdf": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0239.pdf": {
+  "label": "docx",
+  "via": "python-docx",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0240.docx": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0241.docx": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0242.docx": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0243.docx": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0244.csv": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0245.csv": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0246.csv": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0247.csv": {
+  "label": "xlsx",
+  "via": "python-xlsx",
+  "flags": [],
+  "ext": "csv"
+ },
+ "c0248.jpg": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "c0249.jpg": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "c0250.jpg": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "c0251.jpg": {
+  "label": "png",
+  "via": "pillow:PNG",
+  "flags": [],
+  "ext": "jpg"
+ },
+ "c0252.zip": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "zip"
+ },
+ "c0253.zip": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "zip"
+ },
+ "c0254.zip": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "zip"
+ },
+ "c0255.zip": {
+  "label": "pptx",
+  "via": "python-pptx",
+  "flags": [],
+  "ext": "zip"
+ },
+ "c0256.pdf": {
+  "label": "pdf",
+  "via": "pymupdf",
+  "flags": [
+   "repaired"
+  ],
+  "ext": "pdf"
+ },
+ "c0257.pdf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0258.pdf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0259.pdf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0260.pdf": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "pdf"
+ },
+ "c0261.docx": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0262.docx": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0263.docx": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0264.docx": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0265.docx": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "docx"
+ },
+ "c0266.xlsx": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0267.xlsx": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0268.xlsx": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0269.xlsx": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "xlsx"
+ },
+ "c0270.xlsx": {
+  "label": null,
+  "via": "none",
+  "flags": [],
+  "ext": "xlsx"
+ }
+}
