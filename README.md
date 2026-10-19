@@ -4,7 +4,7 @@ What is this upload really, and can a document pipeline take it?
 
 This is a structural file-type check in Rust with no dependencies. It reads the first 8 KB and, when the format needs it, the zip central directory or the OLE directory. It never decompresses or parses content. Along with the label, it reports three flags: `encrypted`, `truncated` and `extension-mismatch`.
 
-The plan and the label set are in [PLAN.md](PLAN.md). The write-up is at https://sharadbapat.com/experiments/what-is-this-file/.
+The plan and the label set are in [PLAN.md](PLAN.md). The write-up is at https://dscvryai.com/insights/what-is-this-file/.
 
 ## Layout
 
